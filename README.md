@@ -37,14 +37,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 📊 Статистика профиля
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maskayk&show_icons=true&theme=visual_studio_dark&count_private=true&keep_background=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maskayk&layout=compact&theme=visual_studio_dark&keep_background=true" alt="Top Languages" width="48%" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📫 Контакты для связи
 
