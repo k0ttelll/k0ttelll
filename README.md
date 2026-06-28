@@ -15,10 +15,10 @@
 ### 🤖 Robotics & Embedded
 * **Frameworks & Simulation:** ROS 2 (Humble/Jazzy), Gazebo, `urdf.xacro`, `ros2_control`
 * **Hardware:** Raspberry Pi 5, STM32, EtherCAT, Modbus
-* **Languages:** C++, Python, Java
+* **Languages:** C++, Python
 
 ### 🧠 Machine Learning & Data Science (In Progress 🚀)
-* **Инструменты & Core:** Python, NumPy, Pandas
+* **Инструменты & Core:** Python, NumPy, Pandas, Scikit-learn, Pytorch, CatBoost
 * **AI на грани (Edge AI):** Развертывание и оптимизация моделей через **ONNX Runtime** для встраиваемых систем
 * **Текущий фокус:** Интеграция LLM/VLM в робототехнические комплексы и промышленный анализ логов
 
