@@ -41,4 +41,4 @@
 ## 📫 Контакты для связи
 
 * **LinkedIn:** [Matsvei Lysenko](https://www.linkedin.com/in/matsvei-lysenko-727436324)
-* **GitHub:** Вы уже здесь! Буду рад фидбеку, коллаборациям или интересным задачам. Смело открывайте Issues или Pull Requests.
+* **Telegram:** [k0ttel](https://t.me/k0ttel)
