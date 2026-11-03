@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 100" role="img" aria-label="SENS">
+  <g fill="none" stroke="#6EA4FF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 16H34a16 16 0 0 0-16 16v6a16 16 0 0 0 16 14h38a16 16 0 0 1 16 14v4a16 16 0 0 1-16 14H52M18 84h14"/>
+    <path d="M144 16h70M144 50h70M144 84h70"/>
+    <path d="M274 16v68m0-68 74 68m0-68v68"/>
+    <path d="M480 16h-54a16 16 0 0 0-16 16v6a16 16 0 0 0 16 14h38a16 16 0 0 1 16 14v4a16 16 0 0 1-16 14h-20m-34 0h14"/>
+  </g>
+</svg>
