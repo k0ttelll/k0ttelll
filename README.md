@@ -45,12 +45,6 @@
   <p>Групповой проект четвероногого робота-помощника для мониторинга потенциально опасных объектов на производстве. Отвечаю за архитектуру в ROS 2, моделирование в urdf.xacro, управление через ros2_control и симуляцию в Gazebo.</p>
 </blockquote>
 
-<blockquote>
-  <h3>🎛 Industrial AI Controller</h3>
-  <p>Умный промышленный контроллер. Система в реальном времени собирает логи по протоколам EtherCAT/Modbus и использует локальные нейросети, оптимизированные через <b>ONNX Runtime</b>, для предиктивной аналитики, интерактивной диагностики и работы с LLM.</p>
-</blockquote>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🛠 Технологии
 
